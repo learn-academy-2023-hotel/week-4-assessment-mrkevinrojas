@@ -14,10 +14,10 @@ List your chosen tech stack here:
 
 ### LinkedIn
 
-Your LinkedIn url:
+Your LinkedIn url: www.linkedin.com/in/mr-kevin-rojas-
 
 Check the boxes below to certify that you have completed the following items on LinkedIn:
 
-- [ ] create a new post about your first three weeks at LEARN. Topics can include (but are not limited to) React, Ruby, projects you created, sharing a project you created, asking for advice, sharing advice.
-- [ ] add at least ten more professional connections. Connections can include your cohort mates, LEARN alumni, LEARN staff, following companies of interest, friends and family, and former coworkers.
-- [ ] react (like, celebrate, comment, etc) to ten posts from your existing connections.
+- [Done] create a new post about your first three weeks at LEARN. Topics can include (but are not limited to) React, Ruby, projects you created, sharing a project you created, asking for advice, sharing advice.
+- [Done] add at least ten more professional connections. Connections can include your cohort mates, LEARN alumni, LEARN staff, following companies of interest, friends and family, and former coworkers.
+- [Done] react (like, celebrate, comment, etc) to ten posts from your existing connections.
